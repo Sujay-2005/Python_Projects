@@ -1,5 +1,0 @@
-
-import pywhatkit
-
-pywhatkit.sendwhatmsg("+990000000000","This is a automatic whatsapp message",13,7)
-
